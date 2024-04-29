@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">planeto</string>
+    <string name="planeto">Planeto</string>
+    <string name="_3_71_m_ss">3.71 M/SS</string>
+    <string name="_2413_km">2413 km</string>
+    <string name="milkyway_galaxy">Milkyway Galaxy</string>
+    <string name="earth">Earth</string>
+    <string name="overview">Overview</string>
+</resources>
